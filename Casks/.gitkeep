@@ -1,0 +1,3 @@
+# Placeholder so goreleaser sees the Casks/ directory on first push.
+# Will be replaced (or sit alongside) the auto-generated Casks/fsvc.rb
+# after the first `git tag vX.Y.Z && git push origin vX.Y.Z` upstream.
